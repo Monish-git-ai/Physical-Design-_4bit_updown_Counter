@@ -9,7 +9,7 @@ Execute floorplanning, power planning, and placement for the synthesised 4-bit u
 Physical Design: Innovus
 
 ## Mandatory Inputs for PD: 
-
+ 
 1. Gate Level Netlist [Output of Synthesis]
    
 2. Block Level SDC [Output of Synthesis]
